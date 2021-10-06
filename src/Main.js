@@ -4,7 +4,7 @@ function Main() {
     return (
         <div>
             <div className="row justify-content-center">
-                <div className="col-md-6">
+                <div className="col-md-5">
                     <h1>form validation</h1>
                     <input type="text" placeholder='username' className="form-control"/>
                     <input type="text" placeholder='email' className="form-control"/>
